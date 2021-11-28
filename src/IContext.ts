@@ -1,6 +1,5 @@
 
 import {IPacket} from './IPacket';
-import {IPromiseWrapper} from './IPromiseWrapper';
 
 export interface IContext {
     getID(): string;
