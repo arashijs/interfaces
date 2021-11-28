@@ -1,0 +1,46 @@
+{
+  "name": "@arashi/sockets",
+  "version": "1.0.1",
+  "description": "Networking Library",
+  "main": "lib/api.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "scripts": {
+    "lint": "eslint --ext .ts,.tsx '?(src|spec)/**/*.?(ts|tsx)' --cache",
+    "docs": "typedoc --excludePrivate --includeVersion -readme ./README.md --out ./docs ./src",
+    "build": "npm run lint && tsc",
+    "build:release": "tsc",
+    "changelog": "auto-changelog --output CHANGELOG.md -p --release-summary --ignore-commit-pattern chore",
+    "test": "npm run lint && jest",
+    "preversion": "npm test",
+    "version": "NODE_ENV=production npm run-script build:release && npm run-script docs && npm run changelog && git add CHANGELOG.md docs && git commit -m 'chore: changelog'",
+    "postversion": "git push && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arashijs/sockets.git"
+  },
+  "author": "norman@nbsolutions.ca",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/arashijs/sockets/issues"
+  },
+  "homepage": "https://github.com/arashijs/sockets#readme",
+  "devDependencies": {
+    "@totalpave/eslint-plugin": "^6.0.1",
+    "@types/jest": "^27.0.3",
+    "@types/node": "^16.11.10",
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0",
+    "auto-changelog": "^2.3.0",
+    "eslint": "^8.3.0",
+    "jest": "^27.3.1",
+    "ts-jest": "^27.0.7",
+    "ts-node": "^10.4.0",
+    "typedoc": "^0.21.9",
+    "typedoc-plugin-markdown": "3.10",
+    "typescript": "4.3"
+  }
+}

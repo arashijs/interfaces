@@ -1,0 +1,8 @@
+lib
+node_modules
+.*cache
+*.tsbuildinfo
+.nyc_output
+coverage
+*.tgz
+*.log

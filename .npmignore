@@ -1,0 +1,8 @@
+.*cache
+tsconfig*
+spec
+coverage
+.nyc_output
+test
+*.tgz
+.eslintrc.js
