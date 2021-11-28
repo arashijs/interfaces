@@ -10,7 +10,7 @@ export interface IPacket<TData, TResponsePacket extends IPacket<any, any> | null
     send(socket: ISocket<any>): Promise<TResponsePacket>;
     isResponseRequired(): boolean;
     getNodeID(): string;
-    setResponesID(repsonseID: string): void;
+    setResponseID(repsonseID: string): void;
     getResponseID(): string;
     getRawData(): Buffer;
     getData(): TData;

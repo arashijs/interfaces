@@ -1,7 +1,8 @@
 
 import {IPacket} from './IPacket';
+import {ISocketAPI} from './ISocketAPI';
 
-export interface ISocket<TSocketAPI> {
+export interface ISocket<TSocketAPI extends ISocketAPI> {
     isConnected(): boolean;
     getID(): string;
     setSocket(socket: TSocketAPI): void;
