@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.0.0-dev](../README.md) / [Exports](../modules.md) / IServerAPI
+[@arashi/interfaces - v1.0.0](../README.md) / [Exports](../modules.md) / IServerAPI
 
 # Module: IServerAPI
 
@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[IServerAPI.ts:16](https://github.com/arashijs/interfaces/blob/c8b27f0/src/IServerAPI.ts#L16)
+[IServerAPI.ts:16](https://github.com/arashijs/interfaces/blob/5879487/src/IServerAPI.ts#L16)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[IServerAPI.ts:8](https://github.com/arashijs/interfaces/blob/c8b27f0/src/IServerAPI.ts#L8)
+[IServerAPI.ts:8](https://github.com/arashijs/interfaces/blob/5879487/src/IServerAPI.ts#L8)
 
 ___
 
@@ -71,4 +71,4 @@ ___
 
 #### Defined in
 
-[IServerAPI.ts:7](https://github.com/arashijs/interfaces/blob/c8b27f0/src/IServerAPI.ts#L7)
+[IServerAPI.ts:7](https://github.com/arashijs/interfaces/blob/5879487/src/IServerAPI.ts#L7)

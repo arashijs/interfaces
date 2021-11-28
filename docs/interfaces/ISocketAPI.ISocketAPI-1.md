@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.0.0-dev](../README.md) / [Exports](../modules.md) / [ISocketAPI](../modules/ISocketAPI.md) / ISocketAPI
+[@arashi/interfaces - v1.0.0](../README.md) / [Exports](../modules.md) / [ISocketAPI](../modules/ISocketAPI.md) / ISocketAPI
 
 # Interface: ISocketAPI
 
@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[ISocketAPI.ts:27](https://github.com/arashijs/interfaces/blob/c8b27f0/src/ISocketAPI.ts#L27)
+[ISocketAPI.ts:27](https://github.com/arashijs/interfaces/blob/5879487/src/ISocketAPI.ts#L27)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[ISocketAPI.ts:28](https://github.com/arashijs/interfaces/blob/c8b27f0/src/ISocketAPI.ts#L28)
+[ISocketAPI.ts:28](https://github.com/arashijs/interfaces/blob/5879487/src/ISocketAPI.ts#L28)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[ISocketAPI.ts:17](https://github.com/arashijs/interfaces/blob/c8b27f0/src/ISocketAPI.ts#L17)
+[ISocketAPI.ts:17](https://github.com/arashijs/interfaces/blob/5879487/src/ISocketAPI.ts#L17)
 
 ▸ **on**(`event`, `callback`): `void`
 
@@ -93,7 +93,7 @@ ___
 
 #### Defined in
 
-[ISocketAPI.ts:18](https://github.com/arashijs/interfaces/blob/c8b27f0/src/ISocketAPI.ts#L18)
+[ISocketAPI.ts:18](https://github.com/arashijs/interfaces/blob/5879487/src/ISocketAPI.ts#L18)
 
 ▸ **on**(`event`, `callback`): `void`
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[ISocketAPI.ts:19](https://github.com/arashijs/interfaces/blob/c8b27f0/src/ISocketAPI.ts#L19)
+[ISocketAPI.ts:19](https://github.com/arashijs/interfaces/blob/5879487/src/ISocketAPI.ts#L19)
 
 ▸ **on**(`event`, `callback`): `void`
 
@@ -127,7 +127,7 @@ ___
 
 #### Defined in
 
-[ISocketAPI.ts:20](https://github.com/arashijs/interfaces/blob/c8b27f0/src/ISocketAPI.ts#L20)
+[ISocketAPI.ts:20](https://github.com/arashijs/interfaces/blob/5879487/src/ISocketAPI.ts#L20)
 
 ___
 
@@ -148,7 +148,7 @@ ___
 
 #### Defined in
 
-[ISocketAPI.ts:22](https://github.com/arashijs/interfaces/blob/c8b27f0/src/ISocketAPI.ts#L22)
+[ISocketAPI.ts:22](https://github.com/arashijs/interfaces/blob/5879487/src/ISocketAPI.ts#L22)
 
 ▸ **once**(`event`, `callback`): `void`
 
@@ -165,7 +165,7 @@ ___
 
 #### Defined in
 
-[ISocketAPI.ts:23](https://github.com/arashijs/interfaces/blob/c8b27f0/src/ISocketAPI.ts#L23)
+[ISocketAPI.ts:23](https://github.com/arashijs/interfaces/blob/5879487/src/ISocketAPI.ts#L23)
 
 ▸ **once**(`event`, `callback`): `void`
 
@@ -182,7 +182,7 @@ ___
 
 #### Defined in
 
-[ISocketAPI.ts:24](https://github.com/arashijs/interfaces/blob/c8b27f0/src/ISocketAPI.ts#L24)
+[ISocketAPI.ts:24](https://github.com/arashijs/interfaces/blob/5879487/src/ISocketAPI.ts#L24)
 
 ▸ **once**(`event`, `callback`): `void`
 
@@ -199,7 +199,7 @@ ___
 
 #### Defined in
 
-[ISocketAPI.ts:25](https://github.com/arashijs/interfaces/blob/c8b27f0/src/ISocketAPI.ts#L25)
+[ISocketAPI.ts:25](https://github.com/arashijs/interfaces/blob/5879487/src/ISocketAPI.ts#L25)
 
 ___
 
@@ -213,7 +213,7 @@ ___
 
 #### Defined in
 
-[ISocketAPI.ts:11](https://github.com/arashijs/interfaces/blob/c8b27f0/src/ISocketAPI.ts#L11)
+[ISocketAPI.ts:11](https://github.com/arashijs/interfaces/blob/5879487/src/ISocketAPI.ts#L11)
 
 ___
 
@@ -234,7 +234,7 @@ ___
 
 #### Defined in
 
-[ISocketAPI.ts:12](https://github.com/arashijs/interfaces/blob/c8b27f0/src/ISocketAPI.ts#L12)
+[ISocketAPI.ts:12](https://github.com/arashijs/interfaces/blob/5879487/src/ISocketAPI.ts#L12)
 
 ▸ **removeListener**(`event`, `callback`): `void`
 
@@ -251,7 +251,7 @@ ___
 
 #### Defined in
 
-[ISocketAPI.ts:13](https://github.com/arashijs/interfaces/blob/c8b27f0/src/ISocketAPI.ts#L13)
+[ISocketAPI.ts:13](https://github.com/arashijs/interfaces/blob/5879487/src/ISocketAPI.ts#L13)
 
 ▸ **removeListener**(`event`, `calback`): `void`
 
@@ -268,7 +268,7 @@ ___
 
 #### Defined in
 
-[ISocketAPI.ts:14](https://github.com/arashijs/interfaces/blob/c8b27f0/src/ISocketAPI.ts#L14)
+[ISocketAPI.ts:14](https://github.com/arashijs/interfaces/blob/5879487/src/ISocketAPI.ts#L14)
 
 ▸ **removeListener**(`event`, `callback`): `void`
 
@@ -285,7 +285,7 @@ ___
 
 #### Defined in
 
-[ISocketAPI.ts:15](https://github.com/arashijs/interfaces/blob/c8b27f0/src/ISocketAPI.ts#L15)
+[ISocketAPI.ts:15](https://github.com/arashijs/interfaces/blob/5879487/src/ISocketAPI.ts#L15)
 
 ___
 
@@ -306,4 +306,4 @@ ___
 
 #### Defined in
 
-[ISocketAPI.ts:30](https://github.com/arashijs/interfaces/blob/c8b27f0/src/ISocketAPI.ts#L30)
+[ISocketAPI.ts:30](https://github.com/arashijs/interfaces/blob/5879487/src/ISocketAPI.ts#L30)

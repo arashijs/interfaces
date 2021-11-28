@@ -1,6 +1,6 @@
-[@arashi/interfaces - v1.0.0-dev](README.md) / Exports
+[@arashi/interfaces - v1.0.0](README.md) / Exports
 
-# @arashi/interfaces - v1.0.0-dev
+# @arashi/interfaces - v1.0.0
 
 ## Table of contents
 

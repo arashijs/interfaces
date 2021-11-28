@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.0.0-dev](../README.md) / [Exports](../modules.md) / api
+[@arashi/interfaces - v1.0.0](../README.md) / [Exports](../modules.md) / api
 
 # Module: api
 

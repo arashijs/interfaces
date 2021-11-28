@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.0.0-dev](../README.md) / [Exports](../modules.md) / [IPacket](../modules/IPacket.md) / IPacket
+[@arashi/interfaces - v1.0.0](../README.md) / [Exports](../modules.md) / [IPacket](../modules/IPacket.md) / IPacket
 
 # Interface: IPacket<TData, TResponsePacket\>
 
@@ -41,7 +41,7 @@
 
 #### Defined in
 
-[IPacket.ts:16](https://github.com/arashijs/interfaces/blob/c8b27f0/src/IPacket.ts#L16)
+[IPacket.ts:16](https://github.com/arashijs/interfaces/blob/5879487/src/IPacket.ts#L16)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[IPacket.ts:7](https://github.com/arashijs/interfaces/blob/c8b27f0/src/IPacket.ts#L7)
+[IPacket.ts:7](https://github.com/arashijs/interfaces/blob/5879487/src/IPacket.ts#L7)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[IPacket.ts:8](https://github.com/arashijs/interfaces/blob/c8b27f0/src/IPacket.ts#L8)
+[IPacket.ts:8](https://github.com/arashijs/interfaces/blob/5879487/src/IPacket.ts#L8)
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 #### Defined in
 
-[IPacket.ts:12](https://github.com/arashijs/interfaces/blob/c8b27f0/src/IPacket.ts#L12)
+[IPacket.ts:12](https://github.com/arashijs/interfaces/blob/5879487/src/IPacket.ts#L12)
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 #### Defined in
 
-[IPacket.ts:15](https://github.com/arashijs/interfaces/blob/c8b27f0/src/IPacket.ts#L15)
+[IPacket.ts:15](https://github.com/arashijs/interfaces/blob/5879487/src/IPacket.ts#L15)
 
 ___
 
@@ -111,7 +111,7 @@ ___
 
 #### Defined in
 
-[IPacket.ts:14](https://github.com/arashijs/interfaces/blob/c8b27f0/src/IPacket.ts#L14)
+[IPacket.ts:14](https://github.com/arashijs/interfaces/blob/5879487/src/IPacket.ts#L14)
 
 ___
 
@@ -125,7 +125,7 @@ ___
 
 #### Defined in
 
-[IPacket.ts:5](https://github.com/arashijs/interfaces/blob/c8b27f0/src/IPacket.ts#L5)
+[IPacket.ts:5](https://github.com/arashijs/interfaces/blob/5879487/src/IPacket.ts#L5)
 
 ___
 
@@ -139,7 +139,7 @@ ___
 
 #### Defined in
 
-[IPacket.ts:11](https://github.com/arashijs/interfaces/blob/c8b27f0/src/IPacket.ts#L11)
+[IPacket.ts:11](https://github.com/arashijs/interfaces/blob/5879487/src/IPacket.ts#L11)
 
 ___
 
@@ -159,7 +159,7 @@ ___
 
 #### Defined in
 
-[IPacket.ts:10](https://github.com/arashijs/interfaces/blob/c8b27f0/src/IPacket.ts#L10)
+[IPacket.ts:10](https://github.com/arashijs/interfaces/blob/5879487/src/IPacket.ts#L10)
 
 ___
 
@@ -173,7 +173,7 @@ ___
 
 #### Defined in
 
-[IPacket.ts:17](https://github.com/arashijs/interfaces/blob/c8b27f0/src/IPacket.ts#L17)
+[IPacket.ts:17](https://github.com/arashijs/interfaces/blob/5879487/src/IPacket.ts#L17)
 
 ___
 
@@ -193,7 +193,7 @@ ___
 
 #### Defined in
 
-[IPacket.ts:6](https://github.com/arashijs/interfaces/blob/c8b27f0/src/IPacket.ts#L6)
+[IPacket.ts:6](https://github.com/arashijs/interfaces/blob/5879487/src/IPacket.ts#L6)
 
 ___
 
@@ -213,7 +213,7 @@ ___
 
 #### Defined in
 
-[IPacket.ts:9](https://github.com/arashijs/interfaces/blob/c8b27f0/src/IPacket.ts#L9)
+[IPacket.ts:9](https://github.com/arashijs/interfaces/blob/5879487/src/IPacket.ts#L9)
 
 ___
 
@@ -233,4 +233,4 @@ ___
 
 #### Defined in
 
-[IPacket.ts:13](https://github.com/arashijs/interfaces/blob/c8b27f0/src/IPacket.ts#L13)
+[IPacket.ts:13](https://github.com/arashijs/interfaces/blob/5879487/src/IPacket.ts#L13)
