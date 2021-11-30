@@ -1,6 +1,6 @@
 {
   "name": "@arashi/interfaces",
-  "version": "1.1.0-dev",
+  "version": "1.1.0",
   "description": "Networking Library Interfaces",
   "main": "lib/api.js",
   "types": "lib/api.d.ts",
