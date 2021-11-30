@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.0.0](../README.md) / [Exports](../modules.md) / IPacket
+[@arashi/interfaces - v1.1.0](../README.md) / [Exports](../modules.md) / IPacket
 
 # Module: IPacket
 

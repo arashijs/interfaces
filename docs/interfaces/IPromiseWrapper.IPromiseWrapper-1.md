@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.0.0](../README.md) / [Exports](../modules.md) / [IPromiseWrapper](../modules/IPromiseWrapper.md) / IPromiseWrapper
+[@arashi/interfaces - v1.1.0](../README.md) / [Exports](../modules.md) / [IPromiseWrapper](../modules/IPromiseWrapper.md) / IPromiseWrapper
 
 # Interface: IPromiseWrapper<T\>
 
@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[IPromiseWrapper.ts:7](https://github.com/arashijs/interfaces/blob/5879487/src/IPromiseWrapper.ts#L7)
+[IPromiseWrapper.ts:7](https://github.com/arashijs/interfaces/blob/02e44ae/src/IPromiseWrapper.ts#L7)
 
 ___
 
@@ -55,4 +55,4 @@ ___
 
 #### Defined in
 
-[IPromiseWrapper.ts:6](https://github.com/arashijs/interfaces/blob/5879487/src/IPromiseWrapper.ts#L6)
+[IPromiseWrapper.ts:6](https://github.com/arashijs/interfaces/blob/02e44ae/src/IPromiseWrapper.ts#L6)

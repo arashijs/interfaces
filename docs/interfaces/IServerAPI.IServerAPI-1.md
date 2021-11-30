@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.0.0](../README.md) / [Exports](../modules.md) / [IServerAPI](../modules/IServerAPI.md) / IServerAPI
+[@arashi/interfaces - v1.1.0](../README.md) / [Exports](../modules.md) / [IServerAPI](../modules/IServerAPI.md) / IServerAPI
 
 # Interface: IServerAPI<TSocketAPI\>
 
@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[IServerAPI.ts:20](https://github.com/arashijs/interfaces/blob/5879487/src/IServerAPI.ts#L20)
+[IServerAPI.ts:20](https://github.com/arashijs/interfaces/blob/02e44ae/src/IServerAPI.ts#L20)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[IServerAPI.ts:21](https://github.com/arashijs/interfaces/blob/5879487/src/IServerAPI.ts#L21)
+[IServerAPI.ts:21](https://github.com/arashijs/interfaces/blob/02e44ae/src/IServerAPI.ts#L21)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[IServerAPI.ts:19](https://github.com/arashijs/interfaces/blob/5879487/src/IServerAPI.ts#L19)
+[IServerAPI.ts:19](https://github.com/arashijs/interfaces/blob/02e44ae/src/IServerAPI.ts#L19)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[IServerAPI.ts:23](https://github.com/arashijs/interfaces/blob/5879487/src/IServerAPI.ts#L23)
+[IServerAPI.ts:23](https://github.com/arashijs/interfaces/blob/02e44ae/src/IServerAPI.ts#L23)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[IServerAPI.ts:24](https://github.com/arashijs/interfaces/blob/5879487/src/IServerAPI.ts#L24)
+[IServerAPI.ts:24](https://github.com/arashijs/interfaces/blob/02e44ae/src/IServerAPI.ts#L24)

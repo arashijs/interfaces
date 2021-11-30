@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.0.0](../README.md) / [Exports](../modules.md) / [ISocket](../modules/ISocket.md) / ISocket
+[@arashi/interfaces - v1.1.0](../README.md) / [Exports](../modules.md) / [ISocket](../modules/ISocket.md) / ISocket
 
 # Interface: ISocket<TSocketAPI\>
 
@@ -41,7 +41,7 @@
 
 #### Defined in
 
-[ISocket.ts:9](https://github.com/arashijs/interfaces/blob/5879487/src/ISocket.ts#L9)
+[ISocket.ts:9](https://github.com/arashijs/interfaces/blob/02e44ae/src/ISocket.ts#L9)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[ISocket.ts:11](https://github.com/arashijs/interfaces/blob/5879487/src/ISocket.ts#L11)
+[ISocket.ts:11](https://github.com/arashijs/interfaces/blob/02e44ae/src/ISocket.ts#L11)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[ISocket.ts:7](https://github.com/arashijs/interfaces/blob/5879487/src/ISocket.ts#L7)
+[ISocket.ts:7](https://github.com/arashijs/interfaces/blob/02e44ae/src/ISocket.ts#L7)
 
 ___
 
@@ -83,7 +83,7 @@ ___
 
 #### Defined in
 
-[ISocket.ts:6](https://github.com/arashijs/interfaces/blob/5879487/src/ISocket.ts#L6)
+[ISocket.ts:6](https://github.com/arashijs/interfaces/blob/02e44ae/src/ISocket.ts#L6)
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 #### Defined in
 
-[ISocket.ts:10](https://github.com/arashijs/interfaces/blob/5879487/src/ISocket.ts#L10)
+[ISocket.ts:10](https://github.com/arashijs/interfaces/blob/02e44ae/src/ISocket.ts#L10)
 
 ___
 
@@ -123,7 +123,7 @@ ___
 
 #### Defined in
 
-[ISocket.ts:12](https://github.com/arashijs/interfaces/blob/5879487/src/ISocket.ts#L12)
+[ISocket.ts:12](https://github.com/arashijs/interfaces/blob/02e44ae/src/ISocket.ts#L12)
 
 ___
 
@@ -143,4 +143,4 @@ ___
 
 #### Defined in
 
-[ISocket.ts:8](https://github.com/arashijs/interfaces/blob/5879487/src/ISocket.ts#L8)
+[ISocket.ts:8](https://github.com/arashijs/interfaces/blob/02e44ae/src/ISocket.ts#L8)

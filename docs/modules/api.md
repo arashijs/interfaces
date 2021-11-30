@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.0.0](../README.md) / [Exports](../modules.md) / api
+[@arashi/interfaces - v1.1.0](../README.md) / [Exports](../modules.md) / api
 
 # Module: api
 
@@ -15,6 +15,8 @@
 - [IEndCallback](api.md#iendcallback)
 - [IErrorCallback](api.md#ierrorcallback)
 - [IListenCallack](api.md#ilistencallack)
+- [ILogEvent](api.md#ilogevent)
+- [ILogger](api.md#ilogger)
 - [IPacket](api.md#ipacket)
 - [IPromiseWrapper](api.md#ipromisewrapper)
 - [IRejectFunction](api.md#irejectfunction)
@@ -23,6 +25,8 @@
 - [ISocket](api.md#isocket)
 - [ISocketAPI](api.md#isocketapi)
 - [IWriteCallback](api.md#iwritecallback)
+- [LogEvent](api.md#logevent)
+- [LogLevel](api.md#loglevel)
 
 ## References
 
@@ -80,6 +84,18 @@ Re-exports: [IListenCallack](IServerAPI.md#ilistencallack)
 
 ___
 
+### ILogEvent
+
+Re-exports: [ILogEvent](../interfaces/ILogEvent.ILogEvent-1.md)
+
+___
+
+### ILogger
+
+Re-exports: [ILogger](../interfaces/ILogger.ILogger-1.md)
+
+___
+
 ### IPacket
 
 Re-exports: [IPacket](../interfaces/IPacket.IPacket-1.md)
@@ -125,3 +141,15 @@ ___
 ### IWriteCallback
 
 Re-exports: [IWriteCallback](ISocketAPI.md#iwritecallback)
+
+___
+
+### LogEvent
+
+Re-exports: [LogEvent](../enums/LogEvent.LogEvent-1.md)
+
+___
+
+### LogLevel
+
+Re-exports: [LogLevel](../enums/LogLevel.LogLevel-1.md)

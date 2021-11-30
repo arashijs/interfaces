@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.0.0](../README.md) / [Exports](../modules.md) / [IServerAPI](../modules/IServerAPI.md) / IAddressInfoData
+[@arashi/interfaces - v1.1.0](../README.md) / [Exports](../modules.md) / [IServerAPI](../modules/IServerAPI.md) / IAddressInfoData
 
 # Interface: IAddressInfoData
 
@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[IServerAPI.ts:11](https://github.com/arashijs/interfaces/blob/5879487/src/IServerAPI.ts#L11)
+[IServerAPI.ts:11](https://github.com/arashijs/interfaces/blob/02e44ae/src/IServerAPI.ts#L11)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[IServerAPI.ts:12](https://github.com/arashijs/interfaces/blob/5879487/src/IServerAPI.ts#L12)
+[IServerAPI.ts:12](https://github.com/arashijs/interfaces/blob/02e44ae/src/IServerAPI.ts#L12)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[IServerAPI.ts:13](https://github.com/arashijs/interfaces/blob/5879487/src/IServerAPI.ts#L13)
+[IServerAPI.ts:13](https://github.com/arashijs/interfaces/blob/02e44ae/src/IServerAPI.ts#L13)
