@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.1.0](../README.md) / [Exports](../modules.md) / ICloseCallback
+[@arashi/interfaces - v1.2.0](../README.md) / [Exports](../modules.md) / ICloseCallback
 
 # Module: ICloseCallback
 
@@ -30,4 +30,4 @@
 
 #### Defined in
 
-[ICloseCallback.ts:2](https://github.com/arashijs/interfaces/blob/02e44ae/src/ICloseCallback.ts#L2)
+[ICloseCallback.ts:2](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ICloseCallback.ts#L2)

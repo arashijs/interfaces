@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.1.0](../README.md) / [Exports](../modules.md) / [IContext](../modules/IContext.md) / IContext
+[@arashi/interfaces - v1.2.0](../README.md) / [Exports](../modules.md) / [IContext](../modules/IContext.md) / IContext
 
 # Interface: IContext
 
@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[IContext.ts:5](https://github.com/arashijs/interfaces/blob/02e44ae/src/IContext.ts#L5)
+[IContext.ts:5](https://github.com/arashijs/interfaces/blob/3f5b69d/src/IContext.ts#L5)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[IContext.ts:6](https://github.com/arashijs/interfaces/blob/02e44ae/src/IContext.ts#L6)
+[IContext.ts:6](https://github.com/arashijs/interfaces/blob/3f5b69d/src/IContext.ts#L6)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[IContext.ts:9](https://github.com/arashijs/interfaces/blob/02e44ae/src/IContext.ts#L9)
+[IContext.ts:9](https://github.com/arashijs/interfaces/blob/3f5b69d/src/IContext.ts#L9)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[IContext.ts:8](https://github.com/arashijs/interfaces/blob/02e44ae/src/IContext.ts#L8)
+[IContext.ts:8](https://github.com/arashijs/interfaces/blob/3f5b69d/src/IContext.ts#L8)
 
 ___
 
@@ -94,4 +94,4 @@ ___
 
 #### Defined in
 
-[IContext.ts:7](https://github.com/arashijs/interfaces/blob/02e44ae/src/IContext.ts#L7)
+[IContext.ts:7](https://github.com/arashijs/interfaces/blob/3f5b69d/src/IContext.ts#L7)

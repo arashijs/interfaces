@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.1.0](../README.md) / [Exports](../modules.md) / ILogEvent
+[@arashi/interfaces - v1.2.0](../README.md) / [Exports](../modules.md) / ILogEvent
 
 # Module: ILogEvent
 

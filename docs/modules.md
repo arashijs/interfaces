@@ -1,11 +1,12 @@
-[@arashi/interfaces - v1.1.0](README.md) / Exports
+[@arashi/interfaces - v1.2.0](README.md) / Exports
 
-# @arashi/interfaces - v1.1.0
+# @arashi/interfaces - v1.2.0
 
 ## Table of contents
 
 ### Modules
 
+- [ICloneable](modules/ICloneable.md)
 - [ICloseCallback](modules/ICloseCallback.md)
 - [IContext](modules/IContext.md)
 - [ILogEvent](modules/ILogEvent.md)

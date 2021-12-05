@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.1.0](../README.md) / [Exports](../modules.md) / [ILogEvent](../modules/ILogEvent.md) / ILogEvent
+[@arashi/interfaces - v1.2.0](../README.md) / [Exports](../modules.md) / [ILogEvent](../modules/ILogEvent.md) / ILogEvent
 
 # Interface: ILogEvent
 
@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[ILogEvent.ts:20](https://github.com/arashijs/interfaces/blob/02e44ae/src/ILogEvent.ts#L20)
+[ILogEvent.ts:20](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogEvent.ts#L20)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[ILogEvent.ts:19](https://github.com/arashijs/interfaces/blob/02e44ae/src/ILogEvent.ts#L19)
+[ILogEvent.ts:19](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogEvent.ts#L19)
