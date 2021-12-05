@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.2.0](../README.md) / [Exports](../modules.md) / ISocket
+[@arashi/interfaces - v1.2.1](../README.md) / [Exports](../modules.md) / ISocket
 
 # Module: ISocket
 

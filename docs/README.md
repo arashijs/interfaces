@@ -1,1 +1,1 @@
-@arashi/interfaces - v1.2.0 / [Exports](modules.md)
+@arashi/interfaces - v1.2.1 / [Exports](modules.md)

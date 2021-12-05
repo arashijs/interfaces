@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.2.0](../README.md) / [Exports](../modules.md) / LogLevel
+[@arashi/interfaces - v1.2.1](../README.md) / [Exports](../modules.md) / LogLevel
 
 # Module: LogLevel
 

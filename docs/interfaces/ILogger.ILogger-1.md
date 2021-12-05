@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.2.0](../README.md) / [Exports](../modules.md) / [ILogger](../modules/ILogger.md) / ILogger
+[@arashi/interfaces - v1.2.1](../README.md) / [Exports](../modules.md) / [ILogger](../modules/ILogger.md) / ILogger
 
 # Interface: ILogger
 
@@ -43,7 +43,7 @@
 
 #### Defined in
 
-[ILogger.ts:6](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogger.ts#L6)
+[ILogger.ts:6](https://github.com/arashijs/interfaces/blob/0089507/src/ILogger.ts#L6)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:13](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogger.ts#L13)
+[ILogger.ts:13](https://github.com/arashijs/interfaces/blob/0089507/src/ILogger.ts#L13)
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:18](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogger.ts#L18)
+[ILogger.ts:18](https://github.com/arashijs/interfaces/blob/0089507/src/ILogger.ts#L18)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:19](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogger.ts#L19)
+[ILogger.ts:19](https://github.com/arashijs/interfaces/blob/0089507/src/ILogger.ts#L19)
 
 ___
 
@@ -132,7 +132,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:17](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogger.ts#L17)
+[ILogger.ts:17](https://github.com/arashijs/interfaces/blob/0089507/src/ILogger.ts#L17)
 
 ___
 
@@ -146,7 +146,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:9](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogger.ts#L9)
+[ILogger.ts:9](https://github.com/arashijs/interfaces/blob/0089507/src/ILogger.ts#L9)
 
 ___
 
@@ -160,7 +160,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:5](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogger.ts#L5)
+[ILogger.ts:5](https://github.com/arashijs/interfaces/blob/0089507/src/ILogger.ts#L5)
 
 ___
 
@@ -182,7 +182,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:15](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogger.ts#L15)
+[ILogger.ts:15](https://github.com/arashijs/interfaces/blob/0089507/src/ILogger.ts#L15)
 
 ___
 
@@ -205,7 +205,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:10](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogger.ts#L10)
+[ILogger.ts:10](https://github.com/arashijs/interfaces/blob/0089507/src/ILogger.ts#L10)
 
 ___
 
@@ -225,7 +225,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:7](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogger.ts#L7)
+[ILogger.ts:7](https://github.com/arashijs/interfaces/blob/0089507/src/ILogger.ts#L7)
 
 ___
 
@@ -245,7 +245,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:8](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogger.ts#L8)
+[ILogger.ts:8](https://github.com/arashijs/interfaces/blob/0089507/src/ILogger.ts#L8)
 
 ___
 
@@ -265,7 +265,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:4](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogger.ts#L4)
+[ILogger.ts:4](https://github.com/arashijs/interfaces/blob/0089507/src/ILogger.ts#L4)
 
 ___
 
@@ -287,7 +287,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:12](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogger.ts#L12)
+[ILogger.ts:12](https://github.com/arashijs/interfaces/blob/0089507/src/ILogger.ts#L12)
 
 ___
 
@@ -309,7 +309,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:11](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogger.ts#L11)
+[ILogger.ts:11](https://github.com/arashijs/interfaces/blob/0089507/src/ILogger.ts#L11)
 
 ___
 
@@ -331,7 +331,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:14](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogger.ts#L14)
+[ILogger.ts:14](https://github.com/arashijs/interfaces/blob/0089507/src/ILogger.ts#L14)
 
 ___
 
@@ -353,4 +353,4 @@ ___
 
 #### Defined in
 
-[ILogger.ts:16](https://github.com/arashijs/interfaces/blob/3f5b69d/src/ILogger.ts#L16)
+[ILogger.ts:16](https://github.com/arashijs/interfaces/blob/0089507/src/ILogger.ts#L16)

@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.2.0](../README.md) / [Exports](../modules.md) / ICloneable
+[@arashi/interfaces - v1.2.1](../README.md) / [Exports](../modules.md) / ICloneable
 
 # Module: ICloneable
 
@@ -6,4 +6,4 @@
 
 ### Interfaces
 
-- [IClonable](../interfaces/ICloneable.IClonable.md)
+- [ICloneable](../interfaces/ICloneable.ICloneable-1.md)

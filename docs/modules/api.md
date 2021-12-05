@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.2.0](../README.md) / [Exports](../modules.md) / api
+[@arashi/interfaces - v1.2.1](../README.md) / [Exports](../modules.md) / api
 
 # Module: api
 
@@ -7,7 +7,7 @@
 ### References
 
 - [IAddressInfo](api.md#iaddressinfo)
-- [IClonable](api.md#iclonable)
+- [ICloneable](api.md#icloneable)
 - [ICloseCallback](api.md#iclosecallback)
 - [IConnectCallback](api.md#iconnectcallback)
 - [IConnectionCallback](api.md#iconnectioncallback)
@@ -37,9 +37,9 @@ Re-exports: [IAddressInfo](IServerAPI.md#iaddressinfo)
 
 ___
 
-### IClonable
+### ICloneable
 
-Re-exports: [IClonable](../interfaces/ICloneable.IClonable.md)
+Re-exports: [ICloneable](../interfaces/ICloneable.ICloneable-1.md)
 
 ___
 

@@ -1,4 +1,4 @@
-[@arashi/interfaces - v1.2.0](../README.md) / [Exports](../modules.md) / [LogLevel](../modules/LogLevel.md) / LogLevel
+[@arashi/interfaces - v1.2.1](../README.md) / [Exports](../modules.md) / [LogLevel](../modules/LogLevel.md) / LogLevel
 
 # Enumeration: LogLevel
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[LogLevel.ts:8](https://github.com/arashijs/interfaces/blob/3f5b69d/src/LogLevel.ts#L8)
+[LogLevel.ts:8](https://github.com/arashijs/interfaces/blob/0089507/src/LogLevel.ts#L8)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[LogLevel.ts:3](https://github.com/arashijs/interfaces/blob/3f5b69d/src/LogLevel.ts#L3)
+[LogLevel.ts:3](https://github.com/arashijs/interfaces/blob/0089507/src/LogLevel.ts#L3)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[LogLevel.ts:6](https://github.com/arashijs/interfaces/blob/3f5b69d/src/LogLevel.ts#L6)
+[LogLevel.ts:6](https://github.com/arashijs/interfaces/blob/0089507/src/LogLevel.ts#L6)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[LogLevel.ts:5](https://github.com/arashijs/interfaces/blob/3f5b69d/src/LogLevel.ts#L5)
+[LogLevel.ts:5](https://github.com/arashijs/interfaces/blob/0089507/src/LogLevel.ts#L5)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[LogLevel.ts:9](https://github.com/arashijs/interfaces/blob/3f5b69d/src/LogLevel.ts#L9)
+[LogLevel.ts:9](https://github.com/arashijs/interfaces/blob/0089507/src/LogLevel.ts#L9)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[LogLevel.ts:7](https://github.com/arashijs/interfaces/blob/3f5b69d/src/LogLevel.ts#L7)
+[LogLevel.ts:7](https://github.com/arashijs/interfaces/blob/0089507/src/LogLevel.ts#L7)
 
 ___
 
@@ -84,4 +84,4 @@ ___
 
 #### Defined in
 
-[LogLevel.ts:4](https://github.com/arashijs/interfaces/blob/3f5b69d/src/LogLevel.ts#L4)
+[LogLevel.ts:4](https://github.com/arashijs/interfaces/blob/0089507/src/LogLevel.ts#L4)
