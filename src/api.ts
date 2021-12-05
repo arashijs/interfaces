@@ -22,3 +22,4 @@ export {LogEvent} from './LogEvent';
 export {ILogEvent} from './ILogEvent';
 export {LogLevel} from './LogLevel';
 export {ILogger} from './ILogger';
+export {IClonable} from './ICloneable';
