@@ -1,4 +1,4 @@
 
-export interface IClonable<T> {
-    clone(): IClonable<T>;
+export interface ICloneable<T> {
+    clone(): ICloneable<T>;
 }
